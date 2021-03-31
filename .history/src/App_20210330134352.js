@@ -167,7 +167,6 @@ export default App; */
 //---------------------------------//
 
 import React, { useState } from 'react';
-import FunctionContextComponent from './FunctionContextComponent';
 
 export const ThemeContext = React.createContext();
 
